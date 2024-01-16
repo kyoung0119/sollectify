@@ -34,5 +34,5 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
 
 ## Contributions
 - Vicyyn [@Vicyyn](https://twitter.com/vicyyn)
-- Niemand [@NieMandRs](https://twitter.com/NieMandRs)
+- Munson [@dxtn89](https://twitter.com/dxtn89)
 
